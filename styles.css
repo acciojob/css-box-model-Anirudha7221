@@ -4,7 +4,7 @@
 	width:300px;
 	height:210px;
 	border:1px solid black;
-	background-color:#5B49F7;
+	background-color:rgb(173,216,230);
 }
 .bx2{
 	width:330x;
@@ -20,12 +20,12 @@
 	height:10px;
 	top:15px;
 	left:20px;
-	width:180px
+	width:90px
 }
 #para{
-/* 	border:1px solid; */
 	position:absolute;
 	left:15px;
-	top:15px;
-	width:250px;
+	top:-2px;
+	width:150px;
+	height:80px;
 }
